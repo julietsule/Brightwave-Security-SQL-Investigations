@@ -1,6 +1,6 @@
-# Brightwave-Security-SQL-Investigations
+# Brightwave Security SQL Investigations
 
-# Brightwave Logistics: Insider Risk, Data Access & Phishing Response Investigation
+# Insider Risk, Data Access & Phishing Response Investigation
 
 ## Project Overview
 A SQL security analytics project investigating one month of security records for Brightwave Logistics, a fictional logistics company. The analysis examines employee access to sensitive systems, potential privilege mismatches, phishing and malware email responses, and incident handling.
@@ -176,5 +176,6 @@ Recommendations should be finalised against validated query results and document
 ## Repository Contents
 - SQL scripts for data quality, access activity, privilege review, phishing analysis, incident response, and advanced SQL analysis
 - Source CSV files for the five project tables
+- Project documentation and findings, where included
 
 
